@@ -5,3 +5,5 @@ Hello
 I am Eanna
 I would like to build and code a simple website in 18 months.
 Here is where i start....ish!!!
+
+# Figuring out Github & repositiries
